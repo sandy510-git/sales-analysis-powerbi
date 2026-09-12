@@ -13,6 +13,11 @@ A comprehensive analysis of sales transaction data (2020–2025) evaluating reve
 | :---: | :---: |
 | ![Executive Overview](sale_analysis_1.PNG) | ![Product Details](sale_analysis_2.PNG) |
 
+<p align="center">
+  <img src="sale_analysis_1.PNG" width="48%" />
+  <img src="sale_analysis_2.PNG" width="48%" />
+</p>
+
 ## ❓ Business Questions
 1. Which product categories drive overall revenue vs. total volume?
 2. How do profit margins (GP%) vary across regions and customer occupation types?
