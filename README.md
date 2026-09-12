@@ -13,23 +13,6 @@ A comprehensive analysis of sales transaction data (2020–2025) evaluating reve
 | :---: | :---: |
 | ![Executive Overview](sale_analysis_1.PNG) | ![Product Details](sale_analysis_2.PNG) |
 
-<h2 align="center">📊 Interactive Dashboard Preview</h2>
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <h3>1. Executive Overview</h3>
-      <img src="sale_analysis_1.PNG" alt="Executive Overview" width="100%"/>
-      <p><i>High-level KPIs, global sales, & demographic trends</i></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>2. Product Analysis</h3>
-      <img src="sale_analysis_2.PNG" alt="Product Analysis" width="100%"/>
-      <p><i>Category breakdowns, profit margins, & top products</i></p>
-    </td>
-  </tr>
-</table>
-
 ## ❓ Business Questions
 1. Which product categories drive overall revenue vs. total volume?
 2. How do profit margins (GP%) vary across regions and customer occupation types?
