@@ -9,7 +9,9 @@ A comprehensive analysis of sales transaction data (2020–2025) evaluating reve
 * **Documentation:** Markdown
 
 ## 📊 Dashboard Preview
-![Sales Analysis Dashboard](sale_analysis_1.PNG)
+| Dashboard Overview | Product Analysis |
+| :---: | :---: |
+| ![Executive Overview](sale_analysis_1.PNG) | ![Product Details](sale_analysis_2.PNG) |
 
 ## ❓ Business Questions
 1. Which product categories drive overall revenue vs. total volume?
